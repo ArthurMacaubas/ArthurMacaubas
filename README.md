@@ -16,6 +16,7 @@ Estudante focado em aprimorar minhas habilidades e contribuir com projetos de de
 - 🎨 CSS
 - ⚙️ JavaScript
 - 🐍 Python
+- 🔧 C++
 
 ---
 
