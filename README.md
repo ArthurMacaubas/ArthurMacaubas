@@ -32,7 +32,6 @@ Olá, eu sou o Arthur, um estudante apaixonado por tecnologia e desenvolvimento!
 Estou sempre aberto a networking e colaborações! Você pode me encontrar em:
 
 - **Email**: [arthurpietro847@gmail.com](mailto:arthurpietro847@gmail.com)
-- **Instagram**: [eumacaubas]
 - **GitHub**: [github.com/ArthurMacaubas](https://github.com/ArthurMacaubas)
 
 ---
