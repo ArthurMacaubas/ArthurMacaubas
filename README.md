@@ -1,47 +1,25 @@
-# Arthur Macaúbas 👨‍💻
+## Olá! Eu sou Arthur! 👋
 
-### Estudante de Informática | 2º Ano de Curso 📚
+Um pouco sobre mim:
 
----
+- 🌱 No momento, estou estudando HTML 5, CSS 3, JavaScript, React e C++
 
-## Sobre Mim 🚀
+- 🏫 Estou cursando o técnico em informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia, Campus Vilhena (IFRO Campus Vilhena)
 
-Olá, eu sou o Arthur, um estudante apaixonado por tecnologia e desenvolvimento! Estou em busca de aprimorar minhas habilidades e contribuir para projetos interessantes. Meu foco atualmente está no desenvolvimento web e na programação, especialmente usando Python e JavaScript. Estou sempre em busca de novos desafios e oportunidades de aprendizado!
+- 📫 Como me encontrar:  
+![Contato-email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+[![Contato-instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumacaubas/)
 
----
+## Minhas estatísticas gerais
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurMacaubas&show_icons=true&theme=transparent&locale=pt-br)
 
-## Habilidades 🛠️
+## Meu histórico de commits
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=ArthurMacaubas&theme=transparent&locale=pt-br)
 
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ⚙️ **JavaScript**
-- 🐍 **Python**
-- 🔧 **C++**
+### Linguagens que estou desenvolvendo
 
----
+HTML5 CSS JavaScript MySQL PHP C++
 
-## Projetos Destacados 💼
+![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMacaubas&theme=transparent&locale=pt-br)
 
-- [Nacoes-Sob-Fogo](https://arthurmacaubas.github.io/Nacoes-Sob-Fogo/): Um site com fins educativos, apresentando conhecimento sobre o conflito.
-- [Jogo-da-Velha](https://arthurmacaubas.github.io/Jogo-da-Velha/): Jogo da velha criado com Front-End e Back-End.
-
----
-
-## Contato 📬
-
-Estou sempre aberto a networking e colaborações! Você pode me encontrar em:
-
-- **Email**: [arthurpietro847@gmail.com](mailto:arthurpietro847@gmail.com)
-- **GitHub**: [github.com/ArthurMacaubas](https://github.com/ArthurMacaubas)
-
----
-
-## Valores e Objetivos 🎯
-
-- Assimilar constantemente novas tecnologias e práticas
-- Trabalhar em equipe e desenvolver habilidades de comunicação
-- Criar soluções inovadoras através da programação
-
----
-
-Sinta-se à vontade para me contatar ou conferir meus projetos! Vamos inovar juntos!
+##### Tenho paixão por programar, especialmente na área de manipulação de dados, e estou sempre buscando evoluir no universo da tecnologia.
