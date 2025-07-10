@@ -18,14 +18,14 @@
 ## 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="mailto:arthurpietro847@gmail.com@gmail.com">
+  <a href="mailto:arthurpietro847@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/arthur.macaubas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://lattes.cnpq.br/8484418471140905">
+    <img src="https://img.shields.io/badge/Lattes-005566?style=for-the-badge&logo=book&logoColor=white" alt="Lattes"/>
   </a>
 </div>
 
@@ -59,7 +59,7 @@
 
 ## 🌟 Projetos em Destaque
 
-- **[Jogo da memoria](https://arthurmacaubas.github.io/Jogo-da-Velha/)**: Um Simples Jogo da Velha, agora com um oponente digno da vitória!  
+- **[Jogo da Memória](https://arthurmacaubas.github.io/Jogo-da-Velha/)**: Um simples Jogo da Velha, agora com um oponente digno da vitória!  
 - **[Nações Sob Fogo](https://arthurmacaubas.github.io/Nacoes-Sob-Fogo/)**: Projeto de Ensino Contínuo: GEOPOLÍTICA E ENSINO DE GEOGRAFIA: O CONFLITO ENTRE RÚSSIA E UCRÂNIA
 
 ---
@@ -73,5 +73,6 @@
 ---
 
 <div align="center">
-  <p><strong>"A tecnologia é apenas uma ferramenta. A curiosidade é que move o mundo!"</strong></p>
+  <p><strong>"A tecnologia é apenas uma ferramenta. A curiosidade é o que move o mundo!"</strong></p>
+  <p>💻 Vamos construir algo incrível juntos?</p>
 </div>
