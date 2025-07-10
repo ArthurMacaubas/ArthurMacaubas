@@ -74,5 +74,4 @@
 
 <div align="center">
   <p><strong>"A tecnologia é apenas uma ferramenta. A curiosidade é o que move o mundo!"</strong></p>
-  <p>💻 Vamos construir algo incrível juntos?</p>
 </div>
