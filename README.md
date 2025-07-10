@@ -18,10 +18,10 @@
 ## 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:arthurpietro847@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/eumacaubas/">
+  <a href="https://www.instagram.com/arthur.macaubas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/seu-linkedin-aqui">
@@ -59,9 +59,8 @@
 
 ## 🌟 Projetos em Destaque
 
-- **[Projeto 1](#)**: Uma aplicação web desenvolvida com React e MySQL para visualização de dados interativos.  
-- **[Projeto 2](#)**: Um sistema em C++ para manipulação de dados e automação de tarefas.  
-- *Em breve*: Um projeto full-stack com integração de APIs e design responsivo!
+- **[Jogo da memoria](https://arthurmacaubas.github.io/Jogo-da-Velha/)**: Um Simples Jogo da Velha, agora com um oponente digno da vitória!  
+- **[Nações Sob Fogo](https://arthurmacaubas.github.io/Nacoes-Sob-Fogo/)**: Projeto de Ensino Contínuo: GEOPOLÍTICA E ENSINO DE GEOGRAFIA: O CONFLITO ENTRE RÚSSIA E UCRÂNIA
 
 ---
 
@@ -74,6 +73,5 @@
 ---
 
 <div align="center">
-  <p><strong>"A tecnologia é apenas uma ferramenta. A paixão e a curiosidade é que movem o mundo!"</strong></p>
-  <p>💻 Vamos construir algo incrível juntos?</p>
+  <p><strong>"A tecnologia é apenas uma ferramenta. A curiosidade é que move o mundo!"</strong></p>
 </div>
