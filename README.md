@@ -1,77 +1,167 @@
+<!-- ============================================================
+     README de perfil — Arthur Macaúbas
+     Paleta: preto editorial + dourado (#C9A227)
+     ============================================================ -->
+
 <div align="center">
-  <h1>👋 Bem-vindo(a) ao meu perfil! Eu sou Arthur Macaubas</h1>
-  <p>Apaixonado por tecnologia, programação e inovação. Sempre buscando aprender, criar e evoluir no universo do desenvolvimento!</p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="300"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3A2E0B,100:C9A227&height=220&section=header&text=Arthur%20Maca%C3%BAbas&fontSize=56&fontColor=F5E6B8&fontAlignY=38&desc=dev%20full-stack%20%E2%80%A2%20Vilhena%2C%20RO&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/Arthurmacaubas">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=640&lines=Eu+construo+coisas+que+resolvem+problemas+reais.;Next.js+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+PostgreSQL;De+luzes+esquecidas+a+dashboards+acad%C3%AAmicos.;Rolando+iniciativa+desde+sempre+%F0%9F%8E%B2" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arthurmacaubas&label=visitas&color=C9A227&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Arthurmacaubas?label=seguidores&style=flat-square&color=0D0D0D&labelColor=C9A227"/>
+
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## `> whoami`
 
-- 🎓 **Estudante** de Técnico em Informática integrado ao Ensino Médio no **IFRO - Campus Vilhena**  
-- 🌱 **Aprendendo e desenvolvendo** com **HTML5, CSS3, JavaScript, React e C++**  
-- 💡 **Interesses**: Manipulação de dados, desenvolvimento web e soluções criativas com tecnologia  
-- 🎯 **Objetivo**: Criar projetos impactantes e contribuir para a comunidade tech
+```ts
+const arthur = {
+  local:      "Vilhena, Rondônia 🇧🇷",
+  base:       "IFRO — Campus Vilhena",
+  papel:      "Dev líder: arquitetura, produto e o código no meio",
+  foco:       ["Full-stack web", "Dados educacionais", "Eficiência energética"],
+  fora_do_pc: ["Vôlei", "Robótica", "Mestre de D&D 5e", "Jogos de tabuleiro"],
+  lema:       "Se ninguém resolveu, é porque ainda não tentei.",
+};
+```
+
+Comecei a programar e não parei mais. Hoje lidero projetos no IFRO tomando decisões de arquitetura e de produto, de dashboards integrados ao SUAP a sistemas de mapas interativos. Gosto de ver um problema real virar software que alguém de fato usa.
 
 ---
 
-## 📫 Conecte-se comigo
+## ⚡ Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 EduSense
+Nasceu de uma cena simples: salas vazias com a luz acesa nos treinos noturnos de vôlei e ar-condicionado esquecido no laboratório de robótica. O EduSense ataca o desperdício de energia na escola e virou artigo, em coautoria com meu orientador, o Prof. Douglas Legramante.
+
+`IoT` `Sustentabilidade` `Pesquisa`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Situação do Aluno
+Dashboard acadêmico integrado ao **SUAP**: rendimento da turma, mapa da turma e boletim completo (N1–N4, MD, MFD…). Cards de KPI, gráficos e design tokens. Agora estou testando um agente de IA local para notificações e consultas por conversa.
+
+`Next.js` `React` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 Parque Ecológico de Vilhena
+Mapa interativo desenhado sobre uma ilustração do parque, **sem Mapbox**, com coordenadas normalizadas. Tem autenticação e deploy containerizado.
+
+`Next.js` `TypeScript` `Prisma` `Auth.js` `Docker` `Coolify`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Nações Sob Fogo
+Um dos meus xodós no GitHub: estratégia, conflito e muita regra bem pensada.
+
+`Game Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Ponto Teens · Sicoob
+Projeto de hackathon: quiz gamificado de educação financeira para adolescentes, com robô.
+
+`Hackathon` `Gamificação` `Robótica`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ FlavourFest &nbsp;·&nbsp; 📚 CasaLivros
+Dois backends REST com Node.js e Express: rotas organizadas e regras de negócio bem separadas.
+
+`Node.js` `Express` `REST`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="mailto:arthurpietro847@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/arthur.macaubas/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://lattes.cnpq.br/8484418471140905">
-    <img src="https://img.shields.io/badge/Lattes-005566?style=for-the-badge&logo=book&logoColor=white" alt="Lattes"/>
-  </a>
+<a href="https://github.com/Arthurmacaubas?tab=repositories">
+  <img src="https://img.shields.io/badge/ver_todos_os_reposit%C3%B3rios-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227"/>
+</a>
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMacaubas&layout=compact&theme=dracula&locale=pt-br" alt="Top Langs"/>
-</div>
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" />
 
----
+**Back-end & dados**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&theme=dark" />
 
-## 📊 Minhas Estatísticas
+**Infra & ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,figma&theme=dark" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurMacaubas&show_icons=true&theme=dracula&locale=pt-br" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMacaubas&theme=dracula&locale=pt-br" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🌟 Projetos em Destaque
+## 📈 Em números
 
-- **[Jogo da Memória](https://arthurmacaubas.github.io/Jogo-da-Velha/)**: Um simples Jogo da Velha, agora com um oponente digno da vitória!  
-- **[Nações Sob Fogo](https://arthurmacaubas.github.io/Nacoes-Sob-Fogo/)**: Projeto de Ensino Contínuo: GEOPOLÍTICA E ENSINO DE GEOGRAFIA: O CONFLITO ENTRE RÚSSIA E UCRÂNIA
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arthurmacaubas&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A227&icon_color=C9A227&text_color=E8DCC0&rank_icon=github&locale=pt-br"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurmacaubas&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8DCC0&langs_count=6&locale=pt-br"/>
+
+<img src="https://streak-stats.demolab.com?user=Arthurmacaubas&hide_border=true&background=0D0D0D&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=E8DCC0&currStreakNum=F5E6B8&sideNums=F5E6B8&dates=8A7A55&locale=pt_BR" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurmacaubas&bg_color=0D0D0D&color=E8DCC0&line=C9A227&point=F5E6B8&area=true&area_color=C9A227&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%"/>
+
+</div>
 
 ---
 
-## 💬 Curiosidades sobre mim
+## 🎲 Side quests
 
-- 🎮 Gosto de jogos que desafiam a lógica e a criatividade, como quebra-cabeças e simuladores.  
-- 📚 Sempre estou lendo algo novo sobre tecnologia, IA ou desenvolvimento pessoal.  
-- ☕ Um bom café é o combustível para minhas sessões de código!  
+- 🏰 **O Vilarejo de Âmbar**: campanha homebrew de D&D 5e que eu mestro
+- ♟️ **Jogo de tabuleiro** sobre o conflito Rússia–Ucrânia
+- 🔧 **Robótica no IFRO**: reergui com os veteranos um projeto que estava parado
+- 🏐 **Vôlei** nos treinos noturnos, onde o EduSense começou
 
 ---
 
 <div align="center">
-  <p><strong>"A tecnologia é apenas uma ferramenta. A curiosidade é o que move o mundo!"</strong></p>
+
+### 🐍 A cobrinha come meus commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Arthurmacaubas/Arthurmacaubas/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthurmacaubas/Arthurmacaubas/output/snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Arthurmacaubas/Arthurmacaubas/output/snake-dark.svg"/>
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/Arthurmacaubas"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227"/></a>
+<!-- Coloque seus links reais abaixo -->
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C9A227"/></a>
+<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,50:3A2E0B,100:0D0D0D&height=120&section=footer" width="100%"/>
+
 </div>
